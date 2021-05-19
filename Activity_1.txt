@@ -1,8 +1,8 @@
 My name is Endalkachew Desta. I am an engineer working in the aviation industry.
 
-I am currently working on some activity for FinTech bootcamp.
+I am currently working on FinTech bootcamp and I found it to be very interesting. It shares a lot of knowledge and processes with signal processing. 
 
-Hello Class!
+Hello!
 
 I am interested in the areas of Machine Learning, Deep Learning, BlockChain, Smart Contracts and DeFi areas.
 
